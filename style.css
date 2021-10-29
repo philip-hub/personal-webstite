@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+
 body{
 color:red;
+background-color: darkslateblue;
+font-family: 'Fruktur', cursive;
 }
